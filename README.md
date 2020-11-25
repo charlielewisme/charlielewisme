@@ -2,11 +2,11 @@
 
 [<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  Data Engineer
 <br />
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/musical-note.svg" />][website]  composer-pianist
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]  Composer-Pianist
 <br />
-[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  waffler
+[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  Waffler
 <br />
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heart.svg" />][yorkshire-tea]  tea drinker
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/heart.svg" />][yorkshire-tea]  Tea Drinker
 
 <br />
 <br />
@@ -39,6 +39,6 @@
 <!-- <img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlielewisme" /> -->
 
 [linkedin]: https://linkedin.com/in/charlielewisme
-[website]: https://charlielewis.me/
+[spotify]: https://charlielewis.me/
 [twitter]: https://twitter.com/charlielewisme
 [yorkshire-tea]: https://www.yorkshiretea.co.uk/
