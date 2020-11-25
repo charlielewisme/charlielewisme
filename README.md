@@ -1,9 +1,12 @@
 ### Hi, I'm Charlie Lewis
 
 [<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  Data Engineer
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/musical-note.svg" />][website]  composer-pianist<br />
-[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  waffler<br />
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heart.svg" />][yorkshire-tea]  tea drinker<br />
+<br />
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/musical-note.svg" />][website]  composer-pianist
+<br />
+[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  waffler
+<br />
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heart.svg" />][yorkshire-tea]  tea drinker
 
 <br />
 <br />
