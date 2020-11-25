@@ -6,7 +6,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]  Composer-Pianist
 <br />
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/dev-dot-to.svg" />][dev-dot-to]  Waffler
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]  Waffler
 <br />
 
 [<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  Tea Drinker
