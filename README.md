@@ -40,7 +40,7 @@
 
 <br />
 
-<img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide_border=true" />
+<img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlielewisme&langs_count=8&hide_border=true" />
 
 
 <img align="left" alt="charlielewisme's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=charlielewisme&show_icons=true&hide_border=true" />
