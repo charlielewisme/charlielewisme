@@ -1,15 +1,11 @@
 ### Hi, I'm Charlie Lewis:
 
-[<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  Data Engineer
-<br />
+Data Engineer | Composer-Pianist | Waffler | Tea Drinker
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]  Composer-Pianist
-<br />
-
-[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  Waffler
-<br />
-
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/heart.svg" />][yorkshire-tea]  Tea Drinker
+[<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
 <br />
 <br />
 
@@ -43,4 +39,4 @@
 [linkedin]: https://linkedin.com/in/charlielewisme
 [spotify]: https://open.spotify.com/artist/0ucfEQr382eSl4lyAia4nz
 [twitter]: https://twitter.com/charlielewisme
-[yorkshire-tea]: https://www.yorkshiretea.co.uk/
+[dev-dot-to]: https://dev.to/charlielewisme
