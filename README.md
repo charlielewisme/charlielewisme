@@ -42,8 +42,7 @@
 
 <img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlielewisme&count_private=true&hide_border=true" />
 
-
-<img align="left" alt="charlielewisme's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=charlielewisme&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="charlielewisme's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=charlielewisme&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://charlielewis.me/
 [twitter]: https://twitter.com/charlielewisme
