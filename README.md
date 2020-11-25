@@ -30,6 +30,7 @@ Data Engineer | Composer-Pianist | Waffler | Tea Drinker
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- ["Hello World!"](https://dev.to/charlielewisme/hello-world-1148)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
