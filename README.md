@@ -1,16 +1,9 @@
 ### Hi, I'm Charlie Lewis
-- data engineer
-- composer-pianist
-- tea drinker
-- waffler
 
-<br />
-
-### Connect with me:
-[<img align="left" alt="charlielewis.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  composer-pianist<br />
-[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  Data Engineer
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/musical-note.svg" />][website]  composer-pianist<br />
+[<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  waffler<br />
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heart.svg" />][yorkshire-tea]  tea drinker<br />
 
 <br />
 <br />
@@ -40,8 +33,9 @@
 
 <br />
 
-<img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlielewisme" />
+<!-- <img align="left" alt="charlielewisme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlielewisme" /> -->
 
+[linkedin]: https://linkedin.com/in/charlielewisme
 [website]: https://charlielewis.me/
 [twitter]: https://twitter.com/charlielewisme
-[linkedin]: https://linkedin.com/in/charlielewisme
+[yorkshire-tea]: https://www.yorkshiretea.co.uk/
