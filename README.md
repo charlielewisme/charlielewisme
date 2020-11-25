@@ -5,28 +5,33 @@
 - waffler
 
 <br />
-<br />
 
 ### Connect with me:
 <!-- [<img align="left" alt="charlielewis.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 <br />
 <br />
 
-### Languages and Tools:
+### Languages:
 
 - Python
 - SQL
+- Shell
+- R
+- VBA
+<br />
+
+### Tools:
+- Airflow
 - AWS
-- Google Cloud Platform
-- Kubernetes
 - Docker
 - Git
+- Google Cloud Platform (GCP)
+- Kubernetes
 - Linux
-- Shell Script
-
 <br />
 
 ### Latest Blog Posts
