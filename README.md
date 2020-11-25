@@ -4,11 +4,15 @@
 - tea drinker
 - waffler
 
+<br />
+<br />
+
 ### Connect with me:
-[<img align="left" alt="charlielewis.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="charlielewis.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="charlielewisme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="charlielewisme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -24,12 +28,12 @@
 - Shell Script
 
 <br />
-<br />
-
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 <img align="left" alt="charlielewisme's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlielewisme&show_icons=true&hide_border=true" />
 
